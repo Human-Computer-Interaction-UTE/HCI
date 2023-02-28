@@ -5,4 +5,4 @@
 <h3>Nguyễn Văn Tú - 19110035</h3>
 <h3>Trần Thế Kiệt - 20110055</h3>
 
-Link Google Drive Proposal: <a href="https://drive.google.com/drive/u/1/folders/1d60sn6LIWR6-lHm1QWKQh8R6syLtW6bc">Proposal HCI</a>
+Link Google Drive Proposal: <a href="https://drive.google.com/drive/u/1/folders/1d60sn6LIWR6-lHm1QWKQh8R6syLtW6bc" target="_blank">Proposal HCI</a>
